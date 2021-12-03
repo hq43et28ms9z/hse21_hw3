@@ -2,6 +2,8 @@
 
 Ссылка на первую часть ДЗ https://colab.research.google.com/drive/1BXFtiMrHdFTrOglAcU2vS1-Q2ZbPqAP4#scrollTo=EPMh8D3e1GuL
 
+Ссылка на вторую часть ДЗ https://colab.research.google.com/gist/hq43et28ms9z/85e3d94e5784d4ef5e23f489890bb69d/volgunov_hse21_hw3_r.ipynb
+
 Количество чтений, соответствующее участкам генома, где не аннотировано ни одного экзона,
 
 Количество чтений, которые могут принадлежать разным генам,
