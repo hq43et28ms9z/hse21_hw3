@@ -70,3 +70,17 @@ SRR3414636
     Sequences flagged as poor quality	0
     Sequence length	65
     %GC	47
+
+
+  Тепловая карта
+![qmrgyb,fdunfoeiumgq,](https://user-images.githubusercontent.com/91056319/144669391-c54cc7b2-8b5d-45fb-b5a5-e6df24e42fe2.JPG)
+
+![grqevfbqaerwf](https://user-images.githubusercontent.com/91056319/144669351-80ca4e84-f469-4ed1-a4b1-dd5a423c4ea9.JPG)
+
+  MA-plot
+![gqor e gver](https://user-images.githubusercontent.com/91056319/144669361-b1bc424d-c225-4f65-8d9e-a8c3f40af623.JPG)
+
+  "Normalized counts" в контрольных и перепрограммированных образцах
+![qesafdwAgrVDWC](https://user-images.githubusercontent.com/91056319/144669378-172d3e6b-7a6e-4ab5-9082-76f112955387.JPG)
+
+
